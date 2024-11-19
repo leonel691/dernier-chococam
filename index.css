@@ -1,0 +1,234 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+html {
+    font-size: 10px; 
+}
+
+
+body {
+    width: 100vw;
+    /*height: 100vh;*/
+    font-size: 1.4rem;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 0px ;
+    font-size: 2rem;
+    border-bottom: .1rem gray solid;
+    color: #020202;
+}
+
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 2rem;
+}
+.logo{
+    width: 10rem;
+}
+
+
+.contact {
+   padding: 1.3rem 4rem;
+   background-color: #3E3232 ;
+   color: white;
+   font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #3E3232;
+} 
+   
+
+
+
+
+<<<<<<< HEAD
+/*bloc2*/
+=======
+/*bloc1*/
+>>>>>>> bloc1
+.bloc1{
+display: flex;
+}
+
+<<<<<<< HEAD
+.text{
+    width: 100%;
+    gap: 4rem;
+    padding: 12rem;
+    flex: 1;
+    text-align: justify;
+    flex-direction: column;
+    padding: 12rem;
+    flex: 1;
+}
+h1{ 
+=======
+.text1{
+    width: 100%;
+    gap: 3rem;
+    padding: 12rem;
+    text-align: justify;
+    flex-direction: column;
+    flex: 1;
+}
+.passion{ 
+>>>>>>> bloc1
+     width: 70%;
+    text-shadow: 2px 3px 10px #00000073;
+    font-size:5rem;
+}
+<<<<<<< HEAD
+p{
+    text-align: justify;
+    width: 70%;
+    font-size: large;
+=======
+.presentation{
+    text-align: justify;
+    width: 70%;
+    font-size: 3rem;
+>>>>>>> bloc1
+    
+}
+.commande{
+    padding: 2rem 4rem;
+    background-color: #3E3232 ;
+    color: white;
+    font-weight: bold;
+    width: 70%;
+    border-radius: 5px;
+}
+.cacao{
+    flex: 1;
+<<<<<<< HEAD
+}
+=======
+}
+
+/*bloc2*/
+.bloc2{
+    display: flex;
+}
+.festival{
+    height: 60rem;
+    flex: 1;
+}
+.text2{
+    width: 100%;
+    gap: 4rem;
+    padding: 10rem;
+    flex:1;
+}
+.meilleur_chocolatier{
+    font-weight: 600;
+    font-size: 5.4rem;
+    text-align: center;
+}
+.text_sur_le_chocolat{
+    text-align: justify;
+    font-size: 3rem;
+}
+.bloc3{
+    background-color: #3E3232;
+    width: 100%;
+    height: 30rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.text3{
+    width: 27rem;
+}
+.millions{
+    color: white;
+    font-size: xxx-large;
+
+}
+.consommateurs{
+    color: white;
+    font-size: 2.3rem;
+    overflow-x: hidden;
+}
+
+.cover{
+    padding-top: 10rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cover1{
+    background-image: url(chewing_gum_cover.svg);
+    width: 470px;
+    height: 371px;
+}
+.cover2{
+    background-image: url(tartina_cover.svg);
+    width: 455px;
+    height: 420px;
+}
+.cover3{
+    background-image: url(mambo_cover.svg);
+    width: 587px;
+    height: 400px;
+}
+.cover4{
+    background-image: url(kola_cover.svg);
+    width: 433px;
+    height: 400px;
+}
+
+.tof1{
+    padding-left: 10rem;
+    width: 300px;
+    height: 300px;
+
+}
+.tof2{
+    padding-left: 10rem;
+    width: 300px;
+    height: 420px;
+}
+.tof3{
+    width: 587px;
+    height: 400px;
+}
+.tof4{
+    padding-left: 4rem;
+    width: 300px;
+    height: 400px;
+}
+
+
+
+
+
+.bloc6{
+    display: flex;
+    background-color: #3E3232;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40rem;
+}
+.lastimage{
+    width: 30rem;
+    height: 20rem;
+}
+>>>>>>> bloc1
